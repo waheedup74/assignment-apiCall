@@ -11,7 +11,7 @@
 
 ## About
 
-It's a assignmnet build in Vue3, Typescript and tailwind css to upload a attachment.
+It's a assignment build in Vue3, Typescript and tailwind css to upload a attachment.
 
 ## Getting Started
 
