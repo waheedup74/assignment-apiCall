@@ -1,9 +1,47 @@
-# Vue 3 + TypeScript + Vite
+# Assignment API Call
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Table of Contents
 
-## Recommended Setup
+- [About](#about)
+- [Getting Started](#getting-started)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contact](#contact)
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+## About
 
-- Use [vue-tsc](https://github.com/vuejs/language-tools/tree/master/packages/tsc) for performing the same type checking from the command line, or for generating d.ts files for SFCs.
+It's a assignmnet build in Vue3, Typescript and tailwind css to upload a attachment.
+
+## Getting Started
+
+To get a local copy up and running, follow these simple steps.
+
+### Prerequisites
+
+- Node.js
+  
+### Installation
+
+1. Clone the repo
+   ```
+   git clone https://github.com/waheedup74/assignment-apiCall.git
+   ```
+2. Install dependencies
+   ```
+   npm install
+   ```
+
+### Usage
+
+To start the app, run:
+
+```
+npm run dev
+```
+
+## Contact
+
+Waheed - waheedup74@gmail.com
+
+Project Link: [https://github.com/waheedup74/assignment-apiCall](https://github.com/waheedup74/assignment-apiCall)
